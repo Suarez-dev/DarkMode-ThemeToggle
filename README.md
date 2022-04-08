@@ -1,4 +1,4 @@
 # DarkMode-ThemeToggle
 Creating darkmode a little bit more fancy
 
-https://xein-dev.github.io/DarkMode-ThemeToggle/
+https://Suarez-dev.github.io/DarkMode-ThemeToggle/
